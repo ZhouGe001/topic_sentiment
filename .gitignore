@@ -1,0 +1,9 @@
+/数据文件/
+/微博-ChatGPT/
+/1.BERTopic/topic_model
+/1.BERTopic/__pycache__/
+/1.BERTopic/.ipynb_checkpoints/
+/2.BERT_Sentiment/二分类model/
+/2.BERT_Sentiment/三分类model/
+/2.BERT_Sentiment/results-三分类/
+/.idea/
